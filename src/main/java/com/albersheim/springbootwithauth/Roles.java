@@ -1,4 +1,4 @@
-package com.okta.springbootwithauth;
+package com.albersheim.springbootwithauth;
 
 import org.springframework.stereotype.Component;
 

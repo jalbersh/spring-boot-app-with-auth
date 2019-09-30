@@ -1,4 +1,4 @@
-package com.okta.springbootwithauth;
+package com.albersheim.springbootwithauth;
 
 import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
 import org.springframework.context.annotation.Bean;
