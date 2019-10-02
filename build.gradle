@@ -20,7 +20,7 @@ apply plugin: 'org.springframework.boot'
 // for spring dependencies)
 apply plugin: 'io.spring.dependency-management'
 
-group = 'com.okta.springbootwithauth'
+group = 'com.albersheim.springbootwithauth'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = 1.8
 
